@@ -1,5 +1,6 @@
+<p align="center">
 # Hey there, I'm Yuri 👋
-
+<p align="center">
 I'm a passionate **Full-Stack Developer** who loves building web apps for fun and practice.  
 Currently diving deep into **React**, **Django**, and modern web development.
 
@@ -7,38 +8,40 @@ Currently diving deep into **React**, **Django**, and modern web development.
 <p align="center">
 ## 💻 Tech Stack
 
+<p align="center">
 ### Frontend
-<p>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin:10px"/>
 </p>
-
+<p align="center">
 ### Backend
-<p>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="margin:10px"/>
 </p>
 
+<p align="center">
 ### Databases
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50" style="margin:10px"/>
 </p>
 
+<p align="center">
 ### Tools & Platforms
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50" height="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" style="margin:10px"/>
 </p>
 
+<p align="center">
 ---
-
+<p align="center">
 ## 📫 Connect with me
 
 <p align="center">
@@ -51,7 +54,7 @@ Currently diving deep into **React**, **Django**, and modern web development.
 </p>
 
 ---
-
+<p align="center">
 ✨ I love coding late at night 🌙
 </p>
 
