@@ -28,8 +28,8 @@ I'm an aspiring **Full-Stack Developer**, exploring web development and building
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin:10px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" style="margin:10px"/>
-AI &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" alt="AI" width="50" height="50" style="margin:10px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./openailogo.png" alt="AI" width="75" height="100" style="margin:10px"/>
 
 ## 📫 Connect with me
 
