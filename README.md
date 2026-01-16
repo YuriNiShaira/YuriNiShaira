@@ -1,10 +1,10 @@
 # Hey there, I'm Yuri 👋
 
-I'm a passionate **Full-Stack Developer** who loves building web apps and exploring new tech.  
+I'm a passionate **Full-Stack Developer** who loves building web apps for fun and practice.  
 Currently diving deep into **React**, **Django**, and modern web development.
 
 ---
-
+<p align="center">
 ## 💻 Tech Stack
 
 ### Frontend
@@ -53,4 +53,5 @@ Currently diving deep into **React**, **Django**, and modern web development.
 ---
 
 ✨ I love coding late at night 🌙
+</p>
 
