@@ -1,7 +1,6 @@
-# Hey there, I'm Yuri 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&width=435&lines=Hello+World!;I'm+Yuri+Mauricio+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-I'm a **Full-Stack Developer** who loves building web apps for fun and practice.  
-Currently diving deep into **React**, **Django**, and modern web development.
+I'm an aspiring **Full-Stack Developer**, exploring web development and building projects to sharpen my skills. Currently diving into React, Django, and modern web technologies.
 
 ---
 
@@ -29,7 +28,8 @@ Currently diving deep into **React**, **Django**, and modern web development.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin:10px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" style="margin:10px"/>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="AI" width="50" height="50" style="margin:10px"/>
 
 ## 📫 Connect with me
 
