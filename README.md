@@ -1,6 +1,6 @@
 # Hey there, I'm Yuri 👋
 
-I'm a passionate Full-Stack Developer who loves building web apps and exploring new tech.  
+I'm a passionate **Full-Stack Developer** who loves building web apps and exploring new tech.  
 Currently diving deep into **React**, **Django**, and modern web development.
 
 ---
@@ -20,7 +20,6 @@ Currently diving deep into **React**, **Django**, and modern web development.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/ramin-raouf/django-rest-framework-logo/main/drf_logo.png" alt="DRF" width="50" height="50" style="margin:10px"/>
 </p>
 
 ### Databases
@@ -36,16 +35,34 @@ Currently diving deep into **React**, **Django**, and modern web development.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50" height="50" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" style="margin:10px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Power_BI_logo.svg" alt="Power BI" width="50" height="50" style="margin:10px"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YuriNiShaira&show_icons=true&theme=radical&hide_border=true" alt="Yuri's GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriNiShaira&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="450"/>
 </p>
 
 ---
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-mauricio-993b3b396/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurimauricio0404@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuri-mauricio-993b3b396/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yurimauricio0404@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-✨I love coding late at night.
+✨ I love coding late at night 🌙💻
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding GIF" width="300"/>
+</p>
