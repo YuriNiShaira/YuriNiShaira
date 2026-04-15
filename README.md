@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,python,django,flask,postgres,postman,git,github&theme=dark" />
@@ -25,7 +25,7 @@
 
 
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yuri-mauricio-993b3b396/" target="_blank">
