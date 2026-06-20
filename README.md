@@ -8,10 +8,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Making+Computers+Do+Cool+Things;Still+Surprised+When+It+Works;Always+Learning"
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Ctrl+C%2C+Ctrl+V%2C+Run%2C+Crash%2C+Debug%2C+Repeat"
+      alt="Typing SVG" />
   </a>
 </p>
 
