@@ -15,15 +15,36 @@
 
 ---
 
-##  Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,python,django,flask,postgres,postman,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,python,django,flask,postgres,postman,git,github&theme=dark" />
 </p>
 
+## 🔧 Technologies & Tools
 
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | React, JavaScript, TypeScript, HTML, CSS |
+| **Backend** | Node.js, Python, Django, Flask |
+| **Database** | PostgreSQL |
+| **Tools** | Postman, Git, GitHub |
 
-##  Connect With Me
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yuri-mauricio-993b3b396/" target="_blank">
